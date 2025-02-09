@@ -11,7 +11,7 @@ const Home = (): ReactElement => {
       </Head>
 
       <main className={styles.main}>
-        This is a test app for Next.js on Docker! 
+        This is a test app for Next.js on Docker, running my homelab!
       </main>
 
       <footer className={styles.footer}>
